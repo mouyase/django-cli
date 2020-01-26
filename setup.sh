@@ -4,6 +4,7 @@ if [ -z project_name ];then
   echo "input error"
   exit
 else
+  rm -rf .git
   secret_key=$(date +%s%N | md5sum | cut -c 1-32)
   sed -i "" "s/django_cli/$project_name/g" manage.py
   sed -i "" "s/django_cli/$project_name/g" django_cli/urls.py
