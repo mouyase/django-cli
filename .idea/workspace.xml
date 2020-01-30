@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0919229a-f35b-4d10-b1ff-6d7ec1adc5d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/commands.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_cli/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cli/settings/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_cli/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cli/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_cli/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cli/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_cli/settings/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cli/settings/prod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +34,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/django_cli/settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/django_cli/settings" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/django_cli/settings" />
     </key>
   </component>
@@ -93,6 +94,7 @@
       <updated>1579960515787</updated>
       <workItem from="1579960517178" duration="3431000" />
       <workItem from="1579964134676" duration="412000" />
+      <workItem from="1580370536923" duration="558000" />
     </task>
     <task id="LOCAL-00001" summary="django_cli">
       <created>1579963476859</created>
@@ -120,10 +122,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="django_cli" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="336" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579960792480">
+    <state x="336" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580370725028">
       <screen x="63" y="23" width="1617" height="1027" />
     </state>
-    <state x="336" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.23.1617.1027@63.23.1617.1027" timestamp="1579960792480" />
+    <state x="336" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.23.1617.1027@63.23.1617.1027" timestamp="1580370725028" />
+    <state x="587" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580370883125">
+      <screen x="63" y="23" width="1617" height="1027" />
+    </state>
+    <state x="587" y="346" key="#com.intellij.fileTypes.FileTypeChooser/63.23.1617.1027@63.23.1617.1027" timestamp="1580370883125" />
+    <state x="565" y="143" key="#django_cli" timestamp="1580370728364">
+      <screen x="63" y="23" width="1617" height="1027" />
+    </state>
+    <state x="565" y="143" key="#django_cli/63.23.1617.1027@63.23.1617.1027" timestamp="1580370728364" />
     <state x="464" y="101" width="833" height="524" key="CommitChangelistDialog2" timestamp="1579963715709">
       <screen x="63" y="23" width="1617" height="1027" />
     </state>

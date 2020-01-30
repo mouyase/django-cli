@@ -1,0 +1,7 @@
+Development environment
+
+python manage.py runserver --settings=django_cli.settings.dev
+
+Production environment
+
+python manage.py runserver --settings=django_cli.settings.prod
